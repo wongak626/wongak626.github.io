@@ -1,0 +1,85 @@
+
+
+    body {
+        font-family: Open Sans;
+        padding-top: 55px;
+        
+    }
+
+    h1 {
+        font-weight: 700;
+        font-size: 3em;
+    }
+
+    .h2, h2 {
+        text-align:center;
+        text-decoration: underline;
+
+    }
+    
+
+    #header {
+    background-image: url("/Users/Alex/Downloads/Personal_portfolio_webpage/images/chinatown.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+    text-align: center;
+    margin: auto;
+    padding: 200px 200px 200px 200px;
+
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 3px;
+    text-shadow: 2px 2px #000000;
+
+    }
+
+    #fa-desktop {
+
+    font-size:60px;
+    }
+
+    #about {
+        background-color: #F2F3F4;
+        padding-bottom: 30px
+    }
+
+    #about h2 {
+        padding-top: 10px;
+    }
+
+    #skills {
+        padding-bottom: 30px
+    }
+
+    #skills h2 {
+        padding-top: 10px;
+    }
+    #portfolio {
+        background-color: #F2F3F4;
+        padding-bottom: 30px
+    }
+    #portfolio h2 {
+        padding-top: 10px;
+    }
+
+    #contact {
+        padding-bottom: 30px;
+    }
+    #contact h2 {
+        padding-top: 10px;
+    }
+
+    #navbar navbar-expand-md bg-light navbar-light fixed-top{
+        background-color: #FFFFFF;
+
+    }
+
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
+
+
+
