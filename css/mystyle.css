@@ -31,13 +31,19 @@
 
     text-align: center;
     margin: auto;
-    padding: 200px 200px 200px 200px;
+    padding: 200px 0;
 
     text-transform: uppercase;
     color: white;
     letter-spacing: 3px;
     text-shadow: 2px 2px #000000;
 
+    }
+
+    #header h1 {
+        margin: 0;
+        padding: 0 15px;
+        text-align: center;
     }
 
     #fa-desktop {
@@ -76,9 +82,8 @@
         padding-top: 10px;
     }
 
-    #navbar navbar-expand-md bg-light navbar-light fixed-top{
-        background-color: #FFFFFF;
-
+    .navbar-dark .navbar-nav .nav-link {
+        color: #fff;
     }
 
     .card {
